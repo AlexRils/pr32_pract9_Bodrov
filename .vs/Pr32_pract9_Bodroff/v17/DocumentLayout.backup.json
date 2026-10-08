@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\ProjectC\u002B\u002B\\Pr32_pract9_Bodroff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B40BCB8-0602-43E2-A19F-11623A1F7A15}|Pr32_pract9_Bodroff\\Pr32_pract9_Bodroff.vcxproj|C:\\Users\\User\\ProjectC\u002B\u002B\\Pr32_pract9_Bodroff\\Pr32_pract9_Bodroff\\Pr32_pract9_Bodroff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B40BCB8-0602-43E2-A19F-11623A1F7A15}|Pr32_pract9_Bodroff\\Pr32_pract9_Bodroff.vcxproj|solutionrelative:Pr32_pract9_Bodroff\\Pr32_pract9_Bodroff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 282,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pr32_pract9_Bodroff.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\ProjectC\u002B\u002B\\Pr32_pract9_Bodroff\\Pr32_pract9_Bodroff\\Pr32_pract9_Bodroff.cpp",
+              "RelativeDocumentMoniker": "Pr32_pract9_Bodroff\\Pr32_pract9_Bodroff.cpp",
+              "ToolTip": "C:\\Users\\User\\ProjectC\u002B\u002B\\Pr32_pract9_Bodroff\\Pr32_pract9_Bodroff\\Pr32_pract9_Bodroff.cpp",
+              "RelativeToolTip": "Pr32_pract9_Bodroff\\Pr32_pract9_Bodroff.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAA0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-08T10:17:16.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
